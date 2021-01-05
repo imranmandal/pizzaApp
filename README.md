@@ -1,2 +1,0 @@
-# pizzaApp
-Created with CodeSandbox
